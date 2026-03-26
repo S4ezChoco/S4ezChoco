@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff9f,100:0d0d0d&height=120&section=header&text=S4ezChoco&fontSize=42&fontColor=00ff9f&fontAlignY=70&animation=twinkling&desc=&descAlignY=51&descAlign=62)
+![typing](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=500&lines=S4ezChoco;Developer+%2F+Builder;N0+H4T3+JU%24T+PL4Y)
 
 ```
 ██████╗  ██╗  ██╗  ███████╗ ███████╗  ██████╗ ██╗  ██╗  ██████╗   ██████╗  ██████╗ 
