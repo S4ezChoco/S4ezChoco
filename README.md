@@ -49,21 +49,6 @@ mood:     Bored
 
 ---
 
-## `// SKILL MATRIX`
-
-<div align="center">
-
-<!--
-  Replace the GitHub stats cards with this SVG or any custom skill widget.
-  See: https://github-readme-stats.vercel.app for the original source.
--->
-
-| Terminal | Skills |
-|----------|--------|
-| 🟢 ONLINE — S4ezChoco | JS · Flutter · HTML/CSS · Python · Git · Android |
-
-</div>
-
 ## `// CURRENTLY`
 
 ```bash
