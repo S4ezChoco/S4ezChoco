@@ -49,23 +49,20 @@ mood:     Bored
 
 ---
 
-## `// GITHUB STATS`
+## `// SKILL MATRIX`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=S4ezChoco&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff9f&icon_color=00ff9f&title_color=00ff9f&text_color=c9d1d9&hide_border=false&card_width=400" height="195"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4ezChoco&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff9f&title_color=00ff9f&text_color=c9d1d9&card_width=400" height="195"/>
+<!--
+  Replace the GitHub stats cards with this SVG or any custom skill widget.
+  See: https://github-readme-stats.vercel.app for the original source.
+-->
+
+| Terminal | Skills |
+|----------|--------|
+| 🟢 ONLINE — S4ezChoco | JS · Flutter · HTML/CSS · Python · Git · Android |
 
 </div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=S4ezChoco&theme=dark&background=0d0d0d&border=00ff9f&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f&sideLabels=00ff9f&dates=ffffff&card_width=820"/>
-
-</div>
-
----
 
 ## `// CURRENTLY`
 
