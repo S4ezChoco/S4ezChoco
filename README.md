@@ -1,82 +1,63 @@
-<div align="center">
-
-![typing](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=500&lines=S4ezChoco;Developer+%2F+Builder;N0+H4T3+JU%24T+PL4Y)
-
-```
-██████╗  ██╗  ██╗  ███████╗ ███████╗  ██████╗ ██╗  ██╗  ██████╗   ██████╗  ██████╗ 
-██╔════╝  ██║  ██║ ██╔════╝  ╚════██║ ██╔════╝ ██║  ██║ ██╔═══██╗ ██╔════╝ ██╔═══██╗
-╚█████╗   ███████║ █████╗        ██╔╝ ██║      ███████║ ██║   ██║ ██║      ██║   ██║
- ╚════██╗ ╚════██║ ██╔══╝       ██╔╝  ██║      ██╔══██║ ██║   ██║ ██║      ██║   ██║
-██████╔╝       ██║ ███████╗  ███████╗ ╚██████╗ ██║  ██║ ╚██████╔╝ ╚██████╗ ╚██████╔╝
-╚═════╝        ╚═╝ ╚══════╝  ╚══════╝  ╚═════╝ ╚═╝  ╚═╝  ╚═════╝   ╚═════╝  ╚═════╝
-```
-
-</div>
-
----
-
-## `// ABOUT ME`
-
-```yaml
-name:     S4ezChoco
-status:   [ ONLINE ]
-location: Philippines 🇵🇭
-role:     Developer / Builder
-focus:    [ Web Dev, Mobile, Software Engineering ]
-mood:     Bored
-```
-
-> *"N0 H4T3 JU$T PL4Y"*
-
----
-
-## `// TECH STACK`
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
-</div>
-
----
-
-## `// CURRENTLY`
+Currently
 
 ```bash
-$ ls -la /current_status/
+$ cat /dev/status
 
-🔭  working_on/     → [ building something cool ]
-🌱  learning/       → [ leveling up my skills ]
-👯  open_to/        → [ collabs & open source ]
-💬  ask_me_about/   → [ dev stuff, code, anything ]
-⚡  fun_fact/       → [ I debug better at 2am ]
+🔭  working_on/     → Building innovative web & mobile applications
+🌱  learning/       → Advanced React patterns, System Design, Cloud Architecture
+👯  open_to/        → Collaborations, Open Source contributions, Freelance projects
+💬  ask_me_about/   → Web Dev, Mobile Dev, Flutter, React, JavaScript, Python
+⚡  fun_fact/       → I debug better at 2am with coffee ☕
+🎮  hobbies/        → Gaming, Coding challenges, Tech exploration
 ```
 
 ---
 
-## `// CONNECT`
+## 🎨 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🌐 **Portfolio Website** | Personal portfolio showcasing projects & skills | React, TypeScript, Tailwind |
+| 📱 **Mobile App** | Cross-platform mobile application | Flutter, Dart, Firebase |
+| 🛠️ **Dev Tool** | Productivity tool for developers | JavaScript, Node.js |
+
+</div>
+
+> 💡 *Check out my pinned repositories below for more projects!*
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-S4ezChoco-%2300ff9f?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/S4ezChoco)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-%2300ff9f?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d0d0d)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-%2300ff9f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:your-email@example.com)
 
 </div>
 
 ---
 
+## 💻 Coding Activity
+
+```text
+🌞 Morning    ████░░░░░░░░░░░░   15%
+🌆 Daytime    ████████░░░░░░░░   35%
+🌃 Evening    ████████████░░░░   50%
+🌙 Night      ████░░░░░░░░░░░░   20%
+```
+
+---
+
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff9f,100:0d0d0d&height=80&section=footer)
+### 🎯 *"Code. Build. Ship. Repeat."*
 
-`Check my Portfolio too! 🟢`
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff9f,100:0d0d0d&height=100&section=footer)
+
+**Thanks for visiting! Let's build something amazing together 🚀**
 
 </div>
